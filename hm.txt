@@ -1,0 +1,15 @@
+LAN(Local Area Network) ---> It is a digital communication system that interconnects a larger number of computers and other peripheral devices within a radius of less than 1km.
+    This type of network is usually preferred for a smaller area such as a school building,computer lab,etc. The total
+    diameter of LAN is not more than 5km.
+
+
+WAN(Wide Area Network) ---> It is a digital communication system that interconnects a large number of computers in
+        a wide geographical area .This network may operateon a worldwide or nationwide basis.In such type of network,There
+        may not be physical connection between computers. In WAN telephone lines, microwave,staellite lins,etc; can be used as transmission medium.
+
+
+PAN(Personal Area Network) ---> These are privately owned networks. PAN is used to establish
+    the communication amongst the computers within the range of 20 to 30 feet.It can be wired or wireless.
+
+MAN(Metropolitan Area Network) ---> This network consists of two or more local area networks
+    together that usually spans several buildings in the same city or town.
